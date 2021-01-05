@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Fidetro&theme=material-palenight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidetro&repo=iOSHelper-For-Mac&cache_seconds=86400&theme=dracula" />  
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidetro&repo=Swift-FFDB&cache_seconds=86400&theme=dracula" />  
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidetro&repo=FFDB&cache_seconds=86400&theme=dracula" />
