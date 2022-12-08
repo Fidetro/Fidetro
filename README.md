@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   [![Readme Card](https://github-readme-stats.vercel.app/api?username=Fidetro&theme=material-palenight)](https://github.com/Fidetro)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fidetro&theme=dracula)](https://github.com/Fidetro)
   [![iOSHelper-For-Mac](https://github-readme-stats.vercel.app/api/pin/?username=Fidetro&repo=iOSHelper-For-Mac&cache_seconds=86400&theme=dracula)](https://github.com/Fidetro/iOSHelper-For-Mac)
